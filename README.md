@@ -20,7 +20,6 @@
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
 <a href="https://github.com/Lemma-Barnabas/skyscraper" target="_blank"><img align="center" src="https://github.com/Lemma-Barnabas/skyscraper" alt="project-1" /></a>
-<a href="https://github.com/lemma-barnabas/project-2" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemma-barnabas&repo=project-2" alt="project-2" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
